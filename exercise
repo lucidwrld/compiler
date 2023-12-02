@@ -1,0 +1,10 @@
+totalfootsteps = 22 + 45 + 30 + 18 + 27# Sample Size Of 5 Students
+
+
+averagefootsteps = totalfootsteps / 5# 5 Students
+
+
+squareofavg = averagefootsteps ** 2# Raised to Power 2
+ 
+
+print(squareofavg)# Print Result
